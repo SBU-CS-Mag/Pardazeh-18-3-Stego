@@ -20,7 +20,7 @@ pip install Pillow numpy
 ```
 * Pillow: A Python Imaging Library that adds image processing capabilities.
 * NumPy: A library for numerical computing in Python, useful for handling arrays.
-* 
+  
 With your environment ready, you can start exploring the provided images and get ready to extract the hidden treasure!
 
 ## Your Mission
